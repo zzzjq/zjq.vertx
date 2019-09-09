@@ -1,4 +1,4 @@
-package com.zjq.vertx.web;
+package zjq.vertx.core;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Vertx;
